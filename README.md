@@ -1,2 +1,1 @@
-# CM-Library-JB-CSE474
-#Hello World
+# 2025-Winter-CSE474-CMLib-jame.brady
